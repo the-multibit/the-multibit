@@ -1,5 +1,6 @@
 👨‍💻 Full-Stack Dev | Code Generalist | Builder
 
+```ts
 // stack: web | iOS | Android | backend | bots  
 // langs: js / ts / swift / kotlin / python / go / java / dart / rust  
 // tools: React, Node, Firebase, SwiftUI, Jetpack, FastAPI, Docker, GPTs, whatever it takes  
